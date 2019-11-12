@@ -1,0 +1,5 @@
+inherited frmBaseCrud1: TfrmBaseCrud1
+  Caption = 'frmBaseCrud1'
+  PixelsPerInch = 96
+  TextHeight = 13
+end
