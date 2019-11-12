@@ -1,0 +1,11 @@
+inherited frmBaseCrud1: TfrmBaseCrud1
+  Caption = 'frmBaseCrud1'
+  PixelsPerInch = 96
+  TextHeight = 13
+  inherited pnlBase: TPanel
+    ExplicitLeft = -96
+    ExplicitTop = 79
+    ExplicitWidth = 514
+    ExplicitHeight = 418
+  end
+end
