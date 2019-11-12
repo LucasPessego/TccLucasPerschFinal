@@ -1,0 +1,10 @@
+inherited frmordemproducao: Tfrmordemproducao
+  Caption = 'frmordemproducao'
+  PixelsPerInch = 96
+  TextHeight = 13
+  inherited pnlBase: TPanel
+    ExplicitTop = 64
+    ExplicitWidth = 514
+    ExplicitHeight = 418
+  end
+end
