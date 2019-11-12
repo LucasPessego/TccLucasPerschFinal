@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/11/11 19:23:35.000.136,=C:\Users\lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/11 19:24:03.000.592,C:\Users\lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\lucas\OneDrive\Área de Trabalho\TCC\ProjTcc.pas</Transaction>
+    <Transaction>2019/11/11 19:24:03.000.592,C:\Users\lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\lucas\OneDrive\Área de Trabalho\TCC\ProjTcc.dfm</Transaction>
+    <Transaction>2019/11/11 19:24:26.000.238,C:\Users\lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\ProjectTcc.dproj</Transaction>
+    <Transaction>2019/11/11 19:24:54.000.146,C:\Users\lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\ProjectTcc.dproj=C:\Users\lucas\OneDrive\Área de Trabalho\TCC\ProjectTcc.dproj</Transaction>
+    <Transaction>2019/11/11 19:26:49.000.113,=C:\Users\lucas\OneDrive\Área de Trabalho\TCC\Unit1.pas</Transaction>
+    <Transaction>2019/11/11 19:27:06.000.041,C:\Users\lucas\OneDrive\Área de Trabalho\TCC\dmtcc.pas=C:\Users\lucas\OneDrive\Área de Trabalho\TCC\Unit1.pas</Transaction>
+    <Transaction>2019/11/11 19:27:06.000.041,C:\Users\lucas\OneDrive\Área de Trabalho\TCC\dmtcc.dfm=C:\Users\lucas\OneDrive\Área de Trabalho\TCC\Unit1.dfm</Transaction>
+    <Transaction>2019/11/11 20:45:41.000.657,=C:\Users\lucas\OneDrive\Área de Trabalho\TCC\framework\dmConexao.pas</Transaction>
+    <Transaction>2019/11/11 20:45:42.000.680,=C:\Users\lucas\OneDrive\Área de Trabalho\TCC\framework\uUtilDB.pas</Transaction>
+    <Transaction>2019/11/11 20:45:42.000.717,=C:\Users\lucas\OneDrive\Área de Trabalho\TCC\framework\uUtilFrame.pas</Transaction>
+    <Transaction>2019/11/11 20:45:42.000.698,=C:\Users\lucas\OneDrive\Área de Trabalho\TCC\framework\uUtilForm.pas</Transaction>
+    <Transaction>2019/11/11 20:45:42.000.661,=C:\Users\lucas\OneDrive\Área de Trabalho\TCC\framework\uUtilCampeonato.pas</Transaction>
+    <Transaction>2019/11/11 20:45:42.000.574,=C:\Users\lucas\OneDrive\Área de Trabalho\TCC\framework\ufrmBaseCrud.pas</Transaction>
+    <Transaction>2019/11/11 20:45:42.000.387,=C:\Users\lucas\OneDrive\Área de Trabalho\TCC\framework\uFrameJogo.pas</Transaction>
+    <Transaction>2019/11/11 20:45:42.000.642,=C:\Users\lucas\OneDrive\Área de Trabalho\TCC\framework\uFrmConsulta.pas</Transaction>
+    <Transaction>2019/11/11 20:45:42.000.230,=C:\Users\lucas\OneDrive\Área de Trabalho\TCC\framework\uCampeonatoHandler.pas</Transaction>
+    <Transaction>2019/11/11 20:59:10.000.587,C:\Users\lucas\OneDrive\Área de Trabalho\TCC\dmtcc.pas=</Transaction>
+    <Transaction>2019/11/11 20:59:23.000.691,C:\Users\lucas\OneDrive\Área de Trabalho\TCC\framework\uUtilFrame.pas=</Transaction>
+    <Transaction>2019/11/11 20:59:26.000.770,C:\Users\lucas\OneDrive\Área de Trabalho\TCC\framework\uUtilCampeonato.pas=</Transaction>
+    <Transaction>2019/11/11 20:59:38.000.710,C:\Users\lucas\OneDrive\Área de Trabalho\TCC\framework\uCampeonatoHandler.pas=</Transaction>
+    <Transaction>2019/11/11 20:59:41.000.218,C:\Users\lucas\OneDrive\Área de Trabalho\TCC\framework\uFrameJogo.pas=</Transaction>
+    <Transaction>2019/11/11 21:01:29.000.403,=C:\Users\lucas\OneDrive\Área de Trabalho\TCC\Unit1.pas</Transaction>
+    <Transaction>2019/11/11 21:01:46.000.684,C:\Users\lucas\OneDrive\Área de Trabalho\TCC\Unit1.pas=C:\Users\lucas\OneDrive\Área de Trabalho\TCC\src\ufrmLote.pas</Transaction>
+    <Transaction>2019/11/11 21:01:46.000.684,C:\Users\lucas\OneDrive\Área de Trabalho\TCC\Unit1.dfm=C:\Users\lucas\OneDrive\Área de Trabalho\TCC\src\ufrmLote.dfm</Transaction>
+    <Transaction>2019/11/11 21:01:55.000.310,=C:\Users\lucas\OneDrive\Área de Trabalho\TCC\Unit2.pas</Transaction>
+    <Transaction>2019/11/11 21:02:05.000.057,C:\Users\lucas\OneDrive\Área de Trabalho\TCC\Unit2.dfm=C:\Users\lucas\OneDrive\Área de Trabalho\TCC\src\ufrmProduto.dfm</Transaction>
+    <Transaction>2019/11/11 21:02:05.000.057,C:\Users\lucas\OneDrive\Área de Trabalho\TCC\Unit2.pas=C:\Users\lucas\OneDrive\Área de Trabalho\TCC\src\ufrmProduto.pas</Transaction>
+    <Transaction>2019/11/11 21:31:51.000.830,=C:\Users\lucas\OneDrive\Área de Trabalho\TCC\Unit1.pas</Transaction>
+    <Transaction>2019/11/11 21:35:05.000.240,C:\Users\lucas\OneDrive\Área de Trabalho\TCC\Unit1.dfm=C:\Users\lucas\OneDrive\Área de Trabalho\TCC\src\ufrmLinhaMontagem.dfm</Transaction>
+    <Transaction>2019/11/11 21:35:05.000.240,C:\Users\lucas\OneDrive\Área de Trabalho\TCC\Unit1.pas=C:\Users\lucas\OneDrive\Área de Trabalho\TCC\src\ufrmLinhaMontagem.pas</Transaction>
+    <Transaction>2019/11/11 21:45:10.000.252,=C:\Users\lucas\OneDrive\Área de Trabalho\TCC\Unit1.pas</Transaction>
+    <Transaction>2019/11/11 21:45:24.000.865,C:\Users\lucas\OneDrive\Área de Trabalho\TCC\Unit1.pas=C:\Users\lucas\OneDrive\Área de Trabalho\TCC\src\ufrmProcesso.pas</Transaction>
+    <Transaction>2019/11/11 21:45:24.000.865,C:\Users\lucas\OneDrive\Área de Trabalho\TCC\Unit1.dfm=C:\Users\lucas\OneDrive\Área de Trabalho\TCC\src\ufrmProcesso.dfm</Transaction>
+    <Transaction>2019/11/11 21:50:03.000.029,=C:\Users\lucas\OneDrive\Área de Trabalho\TCC\Unit1.pas</Transaction>
+    <Transaction>2019/11/11 21:50:21.000.265,C:\Users\lucas\OneDrive\Área de Trabalho\TCC\Unit1.pas=C:\Users\lucas\OneDrive\Área de Trabalho\TCC\src\ufrmordemproducao.pas</Transaction>
+    <Transaction>2019/11/11 21:50:21.000.265,C:\Users\lucas\OneDrive\Área de Trabalho\TCC\Unit1.dfm=C:\Users\lucas\OneDrive\Área de Trabalho\TCC\src\ufrmordemproducao.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
