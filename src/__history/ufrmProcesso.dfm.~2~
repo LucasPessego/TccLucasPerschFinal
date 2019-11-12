@@ -1,0 +1,5 @@
+inherited FrmProcesso: TFrmProcesso
+  Caption = 'FrmProcesso'
+  PixelsPerInch = 96
+  TextHeight = 13
+end
